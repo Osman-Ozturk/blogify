@@ -1,5 +1,5 @@
 import axios from "axios";
-const apiEndpoint = "http://localhost:4000/posts/";
+const apiEndpoint = "http://localhost:4001/posts/";
 
 export const fetchPosts = async () => await axios.get(apiEndpoint);
 
