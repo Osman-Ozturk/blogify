@@ -76,7 +76,7 @@ const App = () => {
               color="secondary"
               className={classes.title}
             >
-              <a href="http://localhost:3001/posts">Blogify</a>
+              <a href="http://localhost:3000/posts">Blogify</a>
             </Typography>
 
             <Button
